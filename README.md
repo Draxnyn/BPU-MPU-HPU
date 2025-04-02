@@ -1,5 +1,5 @@
 # BPU-MPU-HPU
-Explanations about the 3 processor line and the tutorial on how to use it
+Explanations about the 3 processor
 
 # BPU (Basic Processor Unit):
 
