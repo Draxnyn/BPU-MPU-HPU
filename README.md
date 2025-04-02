@@ -1,5 +1,5 @@
 # BPU-MPU-HPU
-Explanations about the 3 processor
+Explanations about the 3 processor and releases
 
 # BPU (Basic Processor Unit):
 
